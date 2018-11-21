@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SyntecCNC_Hanhai" GeneratedClassName="CNCIP">
+  <Profiles />
+  <Settings>
+    <Setting Name="一号机" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.31.104</Value>
+    </Setting>
+    <Setting Name="二号机" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.31.103</Value>
+    </Setting>
+    <Setting Name="三号机" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.31.123</Value>
+    </Setting>
+    <Setting Name="四号机" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="五号机" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.31.102</Value>
+    </Setting>
+    <Setting Name="六号机" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.31.101</Value>
+    </Setting>
+    <Setting Name="七号机" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="八号机" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
